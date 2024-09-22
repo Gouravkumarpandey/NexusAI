@@ -17,7 +17,7 @@ function Main() {
   return (
     <div className="main">
       <div className="nav">
-        <p>Gemini</p>
+        <p>NexusAI</p>
         <img src={assets.user_icon} alt="" />
       </div>
       <div className="main-container">
@@ -25,7 +25,7 @@ function Main() {
           <>
             <div className="greet">
               <p>
-                <span>Hello,GOURAV</span>
+                <span>Hello,Buddy</span>
               </p>
               <p>How can I help you today?</p>
             </div>
